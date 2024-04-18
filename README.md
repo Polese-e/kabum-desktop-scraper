@@ -1,0 +1,2 @@
+# kabum-desktop-scraper
+ Repository Name: kabum-desktop-scraper  Description:  This repository contains a project developed to automate the collection of information about desktop computers available on the Kabum website. Using web scraping techniques, the script extracts product titles and prices, facilitating price comparisons, market analysis, and other related tasks. The use of libraries such as Selenium and Openpyxl provides an efficient approach to data extraction and manipulation.
