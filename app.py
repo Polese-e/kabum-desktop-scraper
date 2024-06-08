@@ -8,7 +8,7 @@ driver = webdriver.Chrome()
 driver.get('https://www.kabum.com.br/computadores/pc')
 
 # Extract all titles
-titles = driver.find_elements(By.XPATH,'//span[@class="sc-d79c9c3f-0 nlmfp sc-8932d6e-16 feBisz nameCard"]')
+titles = driver.find_elements(By.XPATH,'//span[@class="sc-d79c9c3f-0 nlmfp sc-9d1f1537-16 fQnige nameCard"]')
 # Extract all prices
 prices = driver.find_elements(By.XPATH,'//span[@class="sc-b1f5eb03-2 iaiQNF priceCard"]')
 
